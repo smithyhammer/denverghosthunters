@@ -1,0 +1,28 @@
+baseURL = 'http://denverghosthunters.com/'
+languageCode = 'en-us'
+title = 'Denver Ghost Hunters'
+theme = "ananke"
+
+[menu]
+[[menu.main]]
+  identifier = 'Our History'
+  name = 'Our History'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/history/'
+  weight = -110
+[[menu.main]]
+  name = 'Our Staff'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/staff/'
+  weight = -100
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
