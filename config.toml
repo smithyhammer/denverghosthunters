@@ -15,20 +15,26 @@ theme = "ananke"
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/staff/'
-  weight = -100
+  weight = -109
 [[menu.main]]
   name = 'Clients'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/clients/'
-  weight = -100
+  weight = -108
+[[menu.main]]
+  name = 'Service & Specialties'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/services/'
+  weight = -107
 
 [params]
   text_color = ""
   author = ""
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 3

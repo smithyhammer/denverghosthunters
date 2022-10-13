@@ -7,20 +7,8 @@ Always Learning
 Can laugh a lot!
 Thinks outside the box
 
-
-Name
-Stephanie
-Elise
-Don
-Title
-Founder/ Director
-Founder, CEO 
-Organizer
-Affliations
-Fullmoon Explorations
-Fullmoon Explorations, KASPR (exp.) 
-Fullmoon Explorations
-Specialties
-Activity Planning, Video, Psychic
-EVP, Finance, Instrument specialist 
-EVP, Research
+| Name      | Title             | Affliations                         | Specialties                         |
+| --------- | ----------------- | ----------------------------------- | ----------------------------------- |
+| Stephanie | Founder/ Director | Fullmoon Explorations               | Activity Planning, Video, Psychic   |
+| Elise     | Founder, CEO      | Fullmoon Explorations, KASPR (exp.) | EVP, Finance, Instrument specialist |
+| Don       | Organizer         | Fullmoon Explorations               | EVP, Research                       |

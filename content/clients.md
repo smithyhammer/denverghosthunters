@@ -1,6 +1,6 @@
 # Clients
 
-![alt text](./6180588.jpeg)
+![Picture](/images/6180588.jpeg)
 
 Our clients range from private home owners to business owners.
 
@@ -10,7 +10,7 @@ If you are interested in becoming a client, please call or email us and we can a
 
 # Some of our Previous Clients:
 
-![alt](./9476660.jpeg)
+![](/images/9476660.jpeg)
 
 - University of Wyoming
 - Arapaho Community College
