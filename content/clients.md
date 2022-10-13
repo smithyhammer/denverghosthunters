@@ -1,5 +1,7 @@
 # Clients
 
+![alt text](./6180588.jpeg)
+
 Our clients range from private home owners to business owners.
 
 # New Clients?
@@ -7,6 +9,8 @@ Our clients range from private home owners to business owners.
 If you are interested in becoming a client, please call or email us and we can assist you in whatever your paranormal needs are.
 
 # Some of our Previous Clients:
+
+![alt](./9476660.jpeg)
 
 - University of Wyoming
 - Arapaho Community College
