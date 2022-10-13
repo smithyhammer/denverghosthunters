@@ -16,6 +16,12 @@ theme = "ananke"
   pre = "<i class='fa fa-road'></i>"
   url = '/staff/'
   weight = -100
+[[menu.main]]
+  name = 'Clients'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/clients/'
+  weight = -100
 
 [params]
   text_color = ""
